@@ -13,5 +13,5 @@ Screen capture video (with cursor) using Python.
 3. **Saving as GIF:** In [FIJI / ImageJ](http://fiji.sc/) click File > Save As > Animated GIF
 
 ## Demos
-![](demo.png)
-![](demo2.png)
+![](demo.gif)
+![](demo2.gif)
