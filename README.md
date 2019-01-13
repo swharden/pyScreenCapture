@@ -1,6 +1,10 @@
 # pyScreenCapture
 pyScreenCapture is a tool to capture video (with cursor) using Python. It is ideal for creating short animated GIFs demonstrating how small programs work. I often use it in combination with ImageJ (to crop and save as animated GIF).
 
+## Alternative: ScreenToGif
+A more feature-rich solution is:
+https://github.com/NickeManarin/ScreenToGif
+
 ## Features
 * tested in Anaconda (Python 3) on Windows 10
 * takes screenshots with [`PIL.ImageGrab`](http://effbot.org/imagingbook/imagegrab.htm)
